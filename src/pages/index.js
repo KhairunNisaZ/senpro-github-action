@@ -30,7 +30,7 @@ export default function Home() {
 
         <div>
           <h5 className={inter.className}>
-            Khairun Nisa' Zuqri | 473354
+            Khairun Nisa Zuqri | 473354
           </h5>
         </div>
       </main>
